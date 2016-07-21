@@ -1,0 +1,19 @@
+{
+  "name": "heroes",
+  "version": "1.0.0",
+  "description": "Version 1.0.0 - service hosted on node for crud operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartwro/heroes.git"
+  },
+  "author": "Bart Starczewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bartwro/heroes/issues"
+  },
+  "homepage": "https://github.com/bartwro/heroes#readme"
+}
